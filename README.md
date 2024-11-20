@@ -23,7 +23,7 @@ Start and end station locations
 Rider type: Casual or Member
 Privacy Considerations: The data excludes personal information such as names or payment details to maintain user privacy.
 
-## Step2: Prepare(Data Exploration)
+## Step2: Prepare Data
 Key steps included:
 Combining 12 months of data into a single dataset for comprehensive analysis.
 Check the ride_id length
@@ -33,7 +33,7 @@ type of membership(member/casual)
 Check the null values for each column
 Data Type Validation
 
-## Step3: Process(Clean the Data)
+## Step3: Process(Cleaning data)
 The raw trip data from Cyclistic's bike-share system was cleaned and prepared for analysis using SQL. The cleaning process involved the following steps:
 
 1. Objective
