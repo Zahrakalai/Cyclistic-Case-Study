@@ -135,8 +135,75 @@ Annual members maintain shorter, consistent ride durations throughout the week, 
 Key Insight:
 The contrast in average ride durations indicates that casual riders use the service for leisure, while annual members rely on it for regular, practical purposes. This insight supports the development of tailored marketing strategies, such as promoting weekend memberships to casual riders and enhancing weekday service reliability for members.
 
+## Step5: Share(visualization)
 
+This project analyzes Cyclistic ride data using Tableau. Below is a summary of the key visualizations and insights gained:
 
+1. Average Ride Length vs. Total Rides
+Insights:
+Casual Riders: Have significantly longer average ride lengths compared to members, particularly on weekends.
+Members: Contribute to a larger number of total rides, especially on weekdays, indicating frequent, shorter trips for commuting purposes.
 
+2. Average Ride Length per Month
+Insights:
+Casual Riders: Peak ride lengths occur in the summer months (April–July), possibly due to leisure activities.
+Members: Maintain more consistent ride lengths throughout the year, but their average is much lower than casual riders.
 
+4. Average Ride Length per Day
+Insights:
+Casual riders have longer rides on weekends compared to weekdays.
+Members show less variability across days, indicating a stable pattern of usage.
 
+4. Total Rides per Hour of Day
+Insights:
+Casual Riders: Prefer rides during late morning to early evening, peaking around 4 PM.
+Members: Exhibit peak usage during typical commuting hours, with sharp increases in the morning (7-9 AM) and evening (5-6 PM).
+
+6. Total Rides per Day of the Week
+Insights:
+Casual Riders: Peak usage on weekends, reflecting leisure rides.
+Members: Show consistent usage throughout the week, with slightly reduced activity on weekends.
+
+6. Total Rides per Month
+Insights:
+Casual Riders: Rides increase significantly in the summer months, reflecting seasonal trends.
+Members: Maintain steady usage year-round, but slightly higher in summer.
+
+8. Total Rides per Type of Bike
+Insights:
+Docked bikes are the most popular type for both casual and member riders.
+Electric bikes are used less frequently but still make a significant contribution, particularly for casual riders.
+Summary
+This analysis highlights the distinct usage patterns between casual and member riders. Casual riders tend to use bikes for leisure activities, with longer ride times and peak activity during weekends and summer months. Member riders, on the other hand, are consistent users who rely on the service for commuting, with shorter ride lengths and peak activity during weekdays.
+
+## Step6: Act(Recommendation)
+1. Membership Conversion:
+   * Offer discounts (20–30%) on annual memberships to frequent casual riders.
+   * Introduce a one-month free trial or 50% off the first month for new members.
+    
+2. Leisure Marketing:
+  * Launch weekend promotions like 10% off ride costs or free rides on Sundays.
+  * Promote scenic routes and guided tours with discounts for casual riders. 
+
+3. Operational Optimizations:
+   * Ensure high bike availability (95%) at key commuter stations during peak hours.
+   * Introduce a pre-booking feature for members at no extra cost.
+   
+4. Seasonal Strategies:
+   * Offer seasonal passes with significant savings (e.g., summer pass for $50).
+   * Provide winter gear discounts or free heated handle grips for winter riders.
+
+5. Digital Engagement:
+   * Send personalized ride summaries to highlight membership savings.
+   * Use push notifications to offer discounts and encourage repeat usage.
+
+6. Data-Driven Promotions:
+   * Identify frequent casual riders and offer 15–25% membership discounts.
+   * Provide ride-based discounts (e.g., for rides longer than 30 minutes).
+
+7. Improved Accessibility:
+   * Increase bike availability at top stations by 20%.
+   * Allow casual riders to upgrade to membership with interest-free payment plans.
+
+8. Performance Monitoring:
+   Aim for a 10% increase in membership conversions and a 5–7% boost in casual rider revenue over 6 months.
